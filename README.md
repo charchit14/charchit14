@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charchit14&layout=donut)](https://github.com/charchit14/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=charchit14&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=charchit14&style=flat-square) 
 
 
 
