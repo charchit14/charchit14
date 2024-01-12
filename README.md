@@ -6,9 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charchit14&layout=donut)](https://github.com/charchit14/github-readme-stats)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=charchit14&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=charchit14&style=flat-square) 
-
-
 
 
 
