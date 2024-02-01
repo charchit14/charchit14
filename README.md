@@ -6,6 +6,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charchit14&style=flat-square) 
 
+<img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=charchit14&theme=dark&locale=en" alt="Charchit Regmi" />
+
 
 
 
