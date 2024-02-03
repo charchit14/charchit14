@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Charchit Regmi
 - 👀 I’m interested in DevOps
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charchit14&theme=dark&locale=en)](https://github.com/charchit14)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charchit14&layout=donut)](https://github.com/charchit14/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charchit14&theme=dark&locale=en)](https://github.com/charchit14)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charchit14&style=flat-square)
 
