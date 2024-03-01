@@ -5,11 +5,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charchit14&theme=dark&locale=en)](https://github.com/charchit14)
 
-![Profile Views](https://komarev.com/ghpvc/?username=charchit14&style=flat-square)
-
-
-
-
 
 
 
@@ -18,8 +13,11 @@ charchit14/charchit14 is a ✨ special ✨ repository because its `README.md` (t
 
 You can click the Preview link to take a look at your changes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=charchit14&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=charchit14&style=flat-square)
 
 - 🌱 I’m currently learning programming and new tools
 - 💞️ I’m looking to collaborate on ...
