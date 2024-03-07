@@ -3,8 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charchit14&layout=donut)](https://github.com/charchit14/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charchit14&theme=dark&locale=en)](https://github.com/charchit14)
-
 
 
 
@@ -14,6 +12,8 @@ charchit14/charchit14 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charchit14&theme=dark&locale=en)](https://github.com/charchit14)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=charchit14&theme=radical)
 
